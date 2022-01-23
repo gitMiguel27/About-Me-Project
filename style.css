@@ -1,6 +1,23 @@
 h1 {
     background-color: rgba(112, 156, 197, 0.781);
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 body {
     background: rgb(228, 206, 176);
+}
+h2, h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+li {
+    text-align: center;
 }
