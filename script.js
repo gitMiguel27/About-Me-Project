@@ -1,5 +1,5 @@
-const h2 = document.createElement("h2");
-h2.textContent = "All About Miguel";
+const h1 = document.createElement("h1");
+h1.textContent = "All About Miguel";
 
-document.querySelector("body").appendChild(h2);
+document.querySelector("body").appendChild(h1);
 
